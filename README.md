@@ -3,7 +3,8 @@ In this project I implemented different APIs in springboot with the help of mong
 
 **Installation requirements:**
 - Intellij IDEA
-- MongoDB 
+- MongoDB
+- - One should have basic knowledge on commands such as creation insertion updation deletion.
 - Insomnia http client
 
 **step1:**
